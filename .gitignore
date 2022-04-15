@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+#avoid
+/src/component/Hooks
+/src/component/todoreact
+/src/component/weather
+/src/AppBasice.js
+
 # testing
 /coverage
 
